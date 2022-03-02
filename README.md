@@ -13,7 +13,7 @@ This Telegram Bot sends a quote from your list every 10 seconds<br>
   <li>Copy your group chat ID from the JSON that was returned in the browser</li>
   <li>In <a href="https://github.com/DS-jr/Telegram-Bot-sending-Quotes-from-list/blob/main/bot4.py">bot4.py</a> file (in line 15): substitute <code>BOT_TOKEN</code> with your Bot's Token, substitute <code>CHAT_ID</code> with your group chat ID</li>
   <li>In Terminal: create a new directory & enter it</li>
-  <li>Run in Terminal:</li>
+  <li>Run these commands in Terminal:</li>
   <code>python3 -m venv env</code><br>
   <code>source env/bin/activate</code><br>
   <code>pip install requests</code><br>
