@@ -19,10 +19,5 @@ This Telegram Bot sends a quote from your list every 10 seconds<br>
   <code>pip install requests</code><br>
   <li>Run your <a href="https://github.com/DS-jr/Telegram-Bot-sending-Quotes-from-list/blob/main/bot4.py">bot4.py</a> file (it can be done locally on your computer):</li>
   <code>python3 bot4.py</code><br>
-  <li>Check your group chat in Telegram. A new quote from your list should appear every 10 seconds</li>
-#  <li>Run this code to install the library:</li>
-#  <code>pip3 install python-telegram-bot</code><br>
-#  <code>python3 main3.py</code><br> 
-#  <li>Open your Bot in Telegram & enter <code>/go</code> command</li>
-
+  <li>Go to your group chat in Telegram. A new quote from your list should appear every 10 seconds</li>
 </ul>
