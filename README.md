@@ -1,4 +1,4 @@
-# Telegram-Bot-sending-Quotes-from-fixed-list
+# Telegram-Bot-sending-quotes-from-fixed-list
 
 Telegram Bot sending a quote from a fixed (predetermined) list to a group chat every 10 seconds<br>
 
